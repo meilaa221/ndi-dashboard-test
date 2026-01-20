@@ -5,7 +5,7 @@ npm atau pnpm
 
 Installation
 # Clone repository
-git clone https://github.com/meilaa221/ndi-dashboard-test/edit/main/README.md
+git clone https://github.com/meilaa221/ndi-dashboard-test
 
 # Masuk ke folder project
 cd ndi-dashboard-test
